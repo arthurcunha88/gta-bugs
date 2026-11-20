@@ -106,3 +106,29 @@ body:has(dialog[open]){overflow:hidden}
   .case-open{padding-inline:.2rem}
 }
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+
+
+
+/* Motion and shortcuts */
+[hidden]{display:none!important}
+.hero-actions{display:flex;flex-wrap:wrap;gap:.65rem}
+.surprise{min-height:48px;background:none;color:var(--paper);border:1px solid #879684;padding:.65rem .9rem;font-weight:700;transition:background .2s,color .2s}
+.surprise:hover{color:var(--deep);background:var(--paper)}
+.game-shortcuts{display:flex;flex-wrap:wrap;gap:.55rem;padding-top:.85rem}
+.game-shortcuts button{min-height:44px;padding:.4rem .8rem;background:transparent;color:var(--ink);border:1px solid #84907e;font-weight:700}
+.game-shortcuts button[aria-pressed="true"]{background:var(--night);color:var(--paper);border-color:var(--night)}
+.evidence{display:inline-block;background:#dedbc6;border-left:3px solid #768768;padding:.45rem .65rem;color:#263928;font-size:.88rem;font-weight:700}
+.case-open,.feature-open{transition:transform .22s var(--ease)}
+.case-row:is(:hover,:focus-visible) .case-open,.feature:is(:hover,:focus-visible) .feature-open{transform:translateX(-.24rem)}
+.thumb img{transition:transform .35s var(--ease)}
+.case-row:is(:hover,:focus-visible) img{transform:scale(1.07)}
+.reading-progress{display:none}
+@supports (animation-timeline:scroll()){
+  @media(prefers-reduced-motion:no-preference){
+    .reading-progress{display:block;position:fixed;inset:0 0 auto;height:3px;z-index:4;pointer-events:none;background:var(--yellow);transform-origin:left;animation:reading linear both;animation-timeline:scroll(root block)}
+    @keyframes reading{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  }
+}
+@media(prefers-reduced-motion:reduce){
+  .case-open,.feature-open,.thumb img{transform:none!important}
+}

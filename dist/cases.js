@@ -1,5 +1,75 @@
 export default [
   {
+    "id": "lucia-queda",
+    "game": "GTA VI",
+    "type": "Glitch",
+    "title": "Lucia cai para fora do mapa",
+    "place": "Leonida · Prólogo",
+    "body": "Jogadores relataram que Lucia atravessou o chão em uma sequência de scooter no prólogo. Em alguns relatos, a personagem não voltou ao cenário e foi necessário reiniciar a missão.",
+    "version": "Relatos de lançamento reunidos pela Moneycontrol e pelo Vice City DB. O número da versão e a taxa de reprodução não foram estabelecidos.",
+    "source": "https://www.moneycontrol.com/technology/gta-6-players-report-map-falls-clipping-and-crashes-on-launch-day-article-14085026.html",
+    "evidence": "Relatos de lançamento",
+    "video": "",
+    "seconds": 0,
+    "channel": ""
+  },
+  {
+    "id": "celular-colisao",
+    "game": "GTA VI",
+    "type": "Glitch",
+    "title": "O celular e a passagem pelo cenário",
+    "place": "Leonida · Exploração livre",
+    "body": "O Vice City DB relata situações em que Jason atravessa a geometria do cenário ao abrir o celular em espaços apertados. O resultado relatado é uma queda para fora da área jogável.",
+    "version": "Registro comunitário da janela de lançamento, com cobertura geral de clipping na imprensa. Os locais exatos e a versão ainda não estão estabelecidos.",
+    "source": "https://vicecitydb.org/secrets/launch-day-bugs",
+    "evidence": "Relato comunitário",
+    "video": "",
+    "seconds": 0,
+    "channel": ""
+  },
+  {
+    "id": "pedestres-parede",
+    "game": "GTA VI",
+    "type": "Glitch",
+    "title": "Pedestres presos nas paredes",
+    "place": "Leonida · Ruas e edifícios",
+    "body": "Uma análise citada pelo Beebom descreveu personagens andando contra paredes e ficando presos, sem bloquear a progressão do jogador.",
+    "version": "Observação de uma análise de lançamento. A fonte não identifica uma rota nem uma sequência garantida para reproduzir o comportamento.",
+    "source": "https://beebom.com/gta-6-bugs-tracker/",
+    "evidence": "Observação em análise",
+    "video": "",
+    "seconds": 0,
+    "channel": ""
+  },
+  {
+    "id": "lojas-reinicio",
+    "game": "GTA VI",
+    "type": "Glitch",
+    "title": "Lojas voltam a ficar disponíveis após reinício",
+    "place": "Leonida · Modo história",
+    "body": "O Vice City DB documentou lojas voltando a ficar disponíveis antes do fim do intervalo normal, depois de reiniciar e abandonar uma missão com cena de abertura.",
+    "version": "Registro divulgado em 19 de novembro de 2026. A fonte reúne demonstrações e relatos de reprodução. Compatibilidade com atualizações posteriores indeterminada.",
+    "source": "https://vicecitydb.org/secrets/store-robbery-reset-exploit",
+    "evidence": "Reprodução comunitária",
+    "video": "",
+    "seconds": 0,
+    "channel": ""
+  },
+  {
+    "id": "basquete-save",
+    "game": "San Andreas",
+    "type": "Glitch",
+    "title": "As quadras que perdem a bola",
+    "place": "Madd Dogg’s Crib · Los Santos",
+    "body": "Salvar na mansão de Madd Dogg pode deixar as quadras sem bola quando o jogo é carregado novamente. O efeito relatado se estende para além da mansão.",
+    "version": "Documentação comunitária da edição clássica. A explicação sobre o script é atribuída à wiki, e a ficha não generaliza o efeito para remasterizações.",
+    "source": "https://gta.fandom.com/wiki/Glitches_in_GTA_San_Andreas",
+    "evidence": "Documentação histórica",
+    "video": "",
+    "seconds": 0,
+    "channel": ""
+  },
+  {
     "id": "camera-leonida",
     "game": "GTA VI",
     "type": "Glitch",
@@ -169,4 +239,3 @@ export default [
     "source": "https://www.rockstargames.com/VI/trailer-2"
   }
 ];
-
