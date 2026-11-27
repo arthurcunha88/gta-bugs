@@ -11,14 +11,7 @@ export default [
     "evidence": "Easter egg documentado",
     "video": "",
     "channel": "",
-    "seconds": 0,
-    "photo": {
-      "url": "https://i.blogs.es/e5b1d6/cayos_de_leonida_01/1200_900.jpeg",
-      "credit": "Rockstar Games / VidaExtra",
-      "page": "https://www.vidaextra.com/accion/todas-espectaculares-localizaciones-gta-6-ahora-que-lugares-reales-parecen-basarse",
-      "alt": "Hidroavião e ponte sobre as águas de Leonida Keys",
-      "kind": "Imagem de contexto"
-    }
+    "seconds": 0
   },
   {
     "id": "retomada-60fps",
@@ -32,14 +25,7 @@ export default [
     "evidence": "Demonstração reportada",
     "video": "",
     "channel": "",
-    "seconds": 0,
-    "photo": {
-      "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-      "credit": "Rockstar Games / GTA VI Central",
-      "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-      "alt": "Rua de Vice City ao entardecer, com carros e palmeiras",
-      "kind": "Imagem de contexto"
-    }
+    "seconds": 0
   },
   {
     "id": "fully-catered",
@@ -53,14 +39,7 @@ export default [
     "evidence": "Relato pós-patch",
     "video": "",
     "channel": "",
-    "seconds": 0,
-    "photo": {
-      "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-      "credit": "Rockstar Games / GTA VI Central",
-      "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-      "alt": "Rua de Vice City ao entardecer, com carros e palmeiras",
-      "kind": "Imagem de contexto"
-    }
+    "seconds": 0
   },
   {
     "id": "raul-capitulo-quatro",
@@ -74,14 +53,7 @@ export default [
     "evidence": "Relato com pré-requisitos",
     "video": "",
     "channel": "",
-    "seconds": 0,
-    "photo": {
-      "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-      "credit": "Rockstar Games / GTA VI Central",
-      "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-      "alt": "Rua de Vice City ao entardecer, com carros e palmeiras",
-      "kind": "Imagem de contexto"
-    }
+    "seconds": 0
   },
   {
     "id": "submarino-rodovia",
@@ -95,14 +67,7 @@ export default [
     "evidence": "Registro comunitário",
     "video": "",
     "channel": "",
-    "seconds": 0,
-    "photo": {
-      "url": "https://i.blogs.es/e5b1d6/cayos_de_leonida_01/1200_900.jpeg",
-      "credit": "Rockstar Games / VidaExtra",
-      "page": "https://www.vidaextra.com/accion/todas-espectaculares-localizaciones-gta-6-ahora-que-lugares-reales-parecen-basarse",
-      "alt": "Hidroavião e ponte sobre as águas de Leonida Keys",
-      "kind": "Imagem de contexto"
-    }
+    "seconds": 0
   },
   {
     "id": "navio-ponte",
@@ -116,14 +81,7 @@ export default [
     "evidence": "Registro comunitário",
     "video": "",
     "channel": "",
-    "seconds": 0,
-    "photo": {
-      "url": "https://i.blogs.es/e5b1d6/cayos_de_leonida_01/1200_900.jpeg",
-      "credit": "Rockstar Games / VidaExtra",
-      "page": "https://www.vidaextra.com/accion/todas-espectaculares-localizaciones-gta-6-ahora-que-lugares-reales-parecen-basarse",
-      "alt": "Hidroavião e ponte sobre as águas de Leonida Keys",
-      "kind": "Imagem de contexto"
-    }
+    "seconds": 0
   },
   {
     "id": "arvore-catapultante",
@@ -137,14 +95,7 @@ export default [
     "evidence": "Registro comunitário",
     "video": "",
     "channel": "",
-    "seconds": 0,
-    "photo": {
-      "url": "https://i.blogs.es/e5b1d6/cayos_de_leonida_01/1200_900.jpeg",
-      "credit": "Rockstar Games / VidaExtra",
-      "page": "https://www.vidaextra.com/accion/todas-espectaculares-localizaciones-gta-6-ahora-que-lugares-reales-parecen-basarse",
-      "alt": "Hidroavião e ponte sobre as águas de Leonida Keys",
-      "kind": "Imagem de contexto"
-    }
+    "seconds": 0
   },
   {
     "id": "celeiro-recarrega",
@@ -158,14 +109,7 @@ export default [
     "evidence": "Fonte única",
     "video": "",
     "channel": "",
-    "seconds": 0,
-    "photo": {
-      "url": "https://i.blogs.es/e5b1d6/cayos_de_leonida_01/1200_900.jpeg",
-      "credit": "Rockstar Games / VidaExtra",
-      "page": "https://www.vidaextra.com/accion/todas-espectaculares-localizaciones-gta-6-ahora-que-lugares-reales-parecen-basarse",
-      "alt": "Hidroavião e ponte sobre as águas de Leonida Keys",
-      "kind": "Imagem de contexto"
-    }
+    "seconds": 0
   },
   {
     "id": "entrega-bolsas",
@@ -179,14 +123,7 @@ export default [
     "evidence": "Correção oficial",
     "video": "",
     "channel": "",
-    "seconds": 0,
-    "photo": {
-      "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-      "credit": "Rockstar Games / GTA VI Central",
-      "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-      "alt": "Rua de Vice City ao entardecer, com carros e palmeiras",
-      "kind": "Imagem de contexto"
-    }
+    "seconds": 0
   },
   {
     "id": "fechamentos-jogo",
@@ -200,14 +137,7 @@ export default [
     "evidence": "Correção oficial",
     "video": "",
     "channel": "",
-    "seconds": 0,
-    "photo": {
-      "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-      "credit": "Rockstar Games / GTA VI Central",
-      "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-      "alt": "Rua de Vice City ao entardecer, com carros e palmeiras",
-      "kind": "Imagem de contexto"
-    }
+    "seconds": 0
   },
   {
     "id": "clima-travado",
@@ -221,14 +151,7 @@ export default [
     "evidence": "Correção oficial · 23/11/2026",
     "video": "",
     "seconds": 0,
-    "channel": "",
-    "photo": {
-      "url": "https://i.blogs.es/e5b1d6/cayos_de_leonida_01/1200_900.jpeg",
-      "credit": "Rockstar Games / VidaExtra",
-      "page": "https://www.vidaextra.com/accion/todas-espectaculares-localizaciones-gta-6-ahora-que-lugares-reales-parecen-basarse",
-      "alt": "Hidroavião e ponte sobre as águas de Leonida Keys",
-      "kind": "Imagem de contexto"
-    }
+    "channel": ""
   },
   {
     "id": "autosave-falha",
@@ -242,14 +165,7 @@ export default [
     "evidence": "Correção oficial · 23/11/2026",
     "video": "",
     "seconds": 0,
-    "channel": "",
-    "photo": {
-      "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-      "credit": "Rockstar Games / GTA VI Central",
-      "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-      "alt": "Rua de Vice City ao entardecer, com carros e palmeiras",
-      "kind": "Imagem de contexto"
-    }
+    "channel": ""
   },
   {
     "id": "chamadas-historia",
@@ -263,14 +179,7 @@ export default [
     "evidence": "Correção oficial · 23/11/2026",
     "video": "",
     "seconds": 0,
-    "channel": "",
-    "photo": {
-      "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-      "credit": "Rockstar Games / GTA VI Central",
-      "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-      "alt": "Rua de Vice City ao entardecer, com carros e palmeiras",
-      "kind": "Imagem de contexto"
-    }
+    "channel": ""
   },
   {
     "id": "nivel-procurado-preso",
@@ -284,14 +193,7 @@ export default [
     "evidence": "Correção oficial · 23/11/2026",
     "video": "",
     "seconds": 0,
-    "channel": "",
-    "photo": {
-      "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-      "credit": "Rockstar Games / GTA VI Central",
-      "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-      "alt": "Rua de Vice City ao entardecer, com carros e palmeiras",
-      "kind": "Imagem de contexto"
-    }
+    "channel": ""
   },
   {
     "id": "academia-barra",
@@ -305,14 +207,7 @@ export default [
     "evidence": "Correção oficial · 23/11/2026",
     "video": "",
     "seconds": 0,
-    "channel": "",
-    "photo": {
-      "url": "https://cdn.mos.cms.futurecdn.net/TPxhLKZAQVGnWQXktLGAbV.jpg",
-      "credit": "Rockstar Games / PC Gamer",
-      "page": "https://www.pcgamer.com/games/grand-theft-auto/the-gta-6-trailer-shows-jason-and-lucia-working-out-is-rockstar-bringing-back-some-of-san-andreas-rpg-lite-features/",
-      "alt": "Cena de treino ao ar livre no trailer de GTA VI",
-      "kind": "Imagem de contexto"
-    }
+    "channel": ""
   },
   {
     "id": "jason-indisponivel",
@@ -326,14 +221,7 @@ export default [
     "evidence": "Relato pós-patch · 26/11/2026",
     "video": "",
     "seconds": 0,
-    "channel": "",
-    "photo": {
-      "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-      "credit": "Rockstar Games / GTA VI Central",
-      "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-      "alt": "Rua de Vice City ao entardecer, com carros e palmeiras",
-      "kind": "Imagem de contexto"
-    }
+    "channel": ""
   },
   {
     "id": "lucia-queda",
@@ -347,14 +235,7 @@ export default [
     "evidence": "Relatos de lançamento",
     "video": "",
     "seconds": 0,
-    "channel": "",
-    "photo": {
-      "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-      "credit": "Rockstar Games / GTA VI Central",
-      "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-      "alt": "Rua de Vice City ao entardecer, com carros e palmeiras",
-      "kind": "Imagem de contexto"
-    }
+    "channel": ""
   },
   {
     "id": "celular-colisao",
@@ -368,14 +249,7 @@ export default [
     "evidence": "Relato comunitário",
     "video": "",
     "seconds": 0,
-    "channel": "",
-    "photo": {
-      "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-      "credit": "Rockstar Games / GTA VI Central",
-      "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-      "alt": "Rua de Vice City ao entardecer, com carros e palmeiras",
-      "kind": "Imagem de contexto"
-    }
+    "channel": ""
   },
   {
     "id": "pedestres-parede",
@@ -389,14 +263,7 @@ export default [
     "evidence": "Observação em análise",
     "video": "",
     "seconds": 0,
-    "channel": "",
-    "photo": {
-      "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-      "credit": "Rockstar Games / GTA VI Central",
-      "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-      "alt": "Rua de Vice City ao entardecer, com carros e palmeiras",
-      "kind": "Imagem de contexto"
-    }
+    "channel": ""
   },
   {
     "id": "lojas-reinicio",
@@ -410,14 +277,7 @@ export default [
     "evidence": "Reprodução comunitária",
     "video": "",
     "seconds": 0,
-    "channel": "",
-    "photo": {
-      "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-      "credit": "Rockstar Games / GTA VI Central",
-      "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-      "alt": "Rua de Vice City ao entardecer, com carros e palmeiras",
-      "kind": "Imagem de contexto"
-    }
+    "channel": ""
   },
   {
     "id": "basquete-save",
@@ -431,14 +291,7 @@ export default [
     "evidence": "Documentação histórica",
     "video": "",
     "seconds": 0,
-    "channel": "",
-    "photo": {
-      "url": "https://img.gurugamer.com/resize/740x-/2022/11/29/basketball-gtasa-challenge-9ac8.jpg",
-      "credit": "Rockstar Games / GuruGamer",
-      "page": "https://gurugamer.com/pc-console/7-best-sports-minigames-in-the-gta-series-21379",
-      "alt": "Quadra de basquete em GTA San Andreas",
-      "kind": "Imagem de contexto"
-    }
+    "channel": ""
   },
   {
     "id": "camera-leonida",
@@ -451,20 +304,7 @@ export default [
     "video": "vVpfP1x5VTI",
     "seconds": 0,
     "channel": "Kackalack",
-    "source": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-update-gives-players-losing-progress-to-crashes-a-lifeline-and-it-looks-like-the-first-person-and-60fps-glitches-are-safe-for-now/",
-    "photo": {
-      "url": "https://i.ytimg.com/vi/vVpfP1x5VTI/hqdefault.jpg",
-      "credit": "Kackalack",
-      "page": "https://www.youtube.com/watch?v=vVpfP1x5VTI",
-      "alt": "Miniatura do vídeo de Kackalack",
-      "kind": "Miniatura do vídeo",
-      "fallback": {
-        "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-        "credit": "Rockstar Games / GTA VI Central",
-        "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-        "alt": "Rua de Vice City ao entardecer, com carros e palmeiras"
-      }
-    }
+    "source": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-update-gives-players-losing-progress-to-crashes-a-lifeline-and-it-looks-like-the-first-person-and-60fps-glitches-are-safe-for-now/"
   },
   {
     "id": "ovni-leonida",
@@ -477,20 +317,7 @@ export default [
     "video": "72Lakfd7q4E",
     "seconds": 0,
     "channel": "Dan Allen Gaming",
-    "source": "https://beebom.com/gta-6-ufo-location-trophy-guide/",
-    "photo": {
-      "url": "https://i.ytimg.com/vi/72Lakfd7q4E/hqdefault.jpg",
-      "credit": "Dan Allen Gaming",
-      "page": "https://www.youtube.com/watch?v=72Lakfd7q4E",
-      "alt": "Miniatura do vídeo de Dan Allen Gaming",
-      "kind": "Miniatura do vídeo",
-      "fallback": {
-        "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-        "credit": "Rockstar Games / GTA VI Central",
-        "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-        "alt": "Rua de Vice City ao entardecer, com carros e palmeiras"
-      }
-    }
+    "source": "https://beebom.com/gta-6-ufo-location-trophy-guide/"
   },
   {
     "id": "balanco",
@@ -503,20 +330,7 @@ export default [
     "video": "s60FP_MDaC0",
     "seconds": 4819,
     "channel": "GTA Series Videos",
-    "source": "https://www.grandtheftwiki.com/Swing_Glitch",
-    "photo": {
-      "url": "https://i.ytimg.com/vi/s60FP_MDaC0/hqdefault.jpg",
-      "credit": "GTA Series Videos",
-      "page": "https://www.youtube.com/watch?v=s60FP_MDaC0",
-      "alt": "Miniatura do vídeo de GTA Series Videos",
-      "kind": "Miniatura do vídeo",
-      "fallback": {
-        "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-        "credit": "Rockstar Games / GTA VI Central",
-        "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-        "alt": "Rua de Vice City ao entardecer, com carros e palmeiras"
-      }
-    }
+    "source": "https://www.grandtheftwiki.com/Swing_Glitch"
   },
   {
     "id": "coracao",
@@ -529,20 +343,7 @@ export default [
     "video": "s60FP_MDaC0",
     "seconds": 0,
     "channel": "GTA Series Videos",
-    "source": "https://thegta.wiki/wiki/statue-of-happiness/",
-    "photo": {
-      "url": "https://i.ytimg.com/vi/s60FP_MDaC0/hqdefault.jpg",
-      "credit": "GTA Series Videos",
-      "page": "https://www.youtube.com/watch?v=s60FP_MDaC0",
-      "alt": "Miniatura do vídeo de GTA Series Videos",
-      "kind": "Miniatura do vídeo",
-      "fallback": {
-        "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-        "credit": "Rockstar Games / GTA VI Central",
-        "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-        "alt": "Rua de Vice City ao entardecer, com carros e palmeiras"
-      }
-    }
+    "source": "https://thegta.wiki/wiki/statue-of-happiness/"
   },
   {
     "id": "sultan",
@@ -555,20 +356,7 @@ export default [
     "video": "s60FP_MDaC0",
     "seconds": 4946,
     "channel": "GTA Series Videos",
-    "source": "https://www.youtube.com/watch?v=s60FP_MDaC0&t=4946s",
-    "photo": {
-      "url": "https://i.ytimg.com/vi/s60FP_MDaC0/hqdefault.jpg",
-      "credit": "GTA Series Videos",
-      "page": "https://www.youtube.com/watch?v=s60FP_MDaC0",
-      "alt": "Miniatura do vídeo de GTA Series Videos",
-      "kind": "Miniatura do vídeo",
-      "fallback": {
-        "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-        "credit": "Rockstar Games / GTA VI Central",
-        "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-        "alt": "Rua de Vice City ao entardecer, com carros e palmeiras"
-      }
-    }
+    "source": "https://www.youtube.com/watch?v=s60FP_MDaC0&t=4946s"
   },
   {
     "id": "blue-hell",
@@ -581,14 +369,7 @@ export default [
     "video": "",
     "seconds": 0,
     "channel": "",
-    "source": "https://www.grandtheftwiki.com/Ganton_Gym",
-    "photo": {
-      "url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_missions_side-missions_gyms.webp",
-      "credit": "Rockstar Games / GTABase",
-      "page": "https://www.gtabase.com/gta-san-andreas/side-missions/gyms",
-      "alt": "Interior de academia em GTA San Andreas",
-      "kind": "Imagem de contexto"
-    }
+    "source": "https://www.grandtheftwiki.com/Ganton_Gym"
   },
   {
     "id": "ponte",
@@ -601,20 +382,7 @@ export default [
     "video": "fXUWLuISXkg",
     "seconds": 0,
     "channel": "GTA Series Videos",
-    "source": "https://www.youtube.com/watch?v=fXUWLuISXkg&t=0s",
-    "photo": {
-      "url": "https://i.ytimg.com/vi/fXUWLuISXkg/hqdefault.jpg",
-      "credit": "GTA Series Videos",
-      "page": "https://www.youtube.com/watch?v=fXUWLuISXkg",
-      "alt": "Miniatura do vídeo de GTA Series Videos",
-      "kind": "Miniatura do vídeo",
-      "fallback": {
-        "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-        "credit": "Rockstar Games / GTA VI Central",
-        "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-        "alt": "Rua de Vice City ao entardecer, com carros e palmeiras"
-      }
-    }
+    "source": "https://www.youtube.com/watch?v=fXUWLuISXkg&t=0s"
   },
   {
     "id": "fantasma",
@@ -627,20 +395,7 @@ export default [
     "video": "db8xcqCq5Lk",
     "seconds": 572,
     "channel": "GTA Series Videos",
-    "source": "https://www.youtube.com/watch?v=-Z8u8vIfg9c&t=154s",
-    "photo": {
-      "url": "https://i.ytimg.com/vi/db8xcqCq5Lk/hqdefault.jpg",
-      "credit": "GTA Series Videos",
-      "page": "https://www.youtube.com/watch?v=db8xcqCq5Lk",
-      "alt": "Miniatura do vídeo de GTA Series Videos",
-      "kind": "Miniatura do vídeo",
-      "fallback": {
-        "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-        "credit": "Rockstar Games / GTA VI Central",
-        "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-        "alt": "Rua de Vice City ao entardecer, com carros e palmeiras"
-      }
-    }
+    "source": "https://www.youtube.com/watch?v=-Z8u8vIfg9c&t=154s"
   },
   {
     "id": "alien",
@@ -653,20 +408,7 @@ export default [
     "video": "db8xcqCq5Lk",
     "seconds": 316,
     "channel": "GTA Series Videos",
-    "source": "https://www.youtube.com/watch?v=db8xcqCq5Lk&t=316s",
-    "photo": {
-      "url": "https://i.ytimg.com/vi/db8xcqCq5Lk/hqdefault.jpg",
-      "credit": "GTA Series Videos",
-      "page": "https://www.youtube.com/watch?v=db8xcqCq5Lk",
-      "alt": "Miniatura do vídeo de GTA Series Videos",
-      "kind": "Miniatura do vídeo",
-      "fallback": {
-        "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-        "credit": "Rockstar Games / GTA VI Central",
-        "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-        "alt": "Rua de Vice City ao entardecer, com carros e palmeiras"
-      }
-    }
+    "source": "https://www.youtube.com/watch?v=db8xcqCq5Lk&t=316s"
   },
   {
     "id": "chiliad",
@@ -679,20 +421,7 @@ export default [
     "video": "db8xcqCq5Lk",
     "seconds": 114,
     "channel": "GTA Series Videos",
-    "source": "https://www.youtube.com/watch?v=-Z8u8vIfg9c&t=477s",
-    "photo": {
-      "url": "https://i.ytimg.com/vi/db8xcqCq5Lk/hqdefault.jpg",
-      "credit": "GTA Series Videos",
-      "page": "https://www.youtube.com/watch?v=db8xcqCq5Lk",
-      "alt": "Miniatura do vídeo de GTA Series Videos",
-      "kind": "Miniatura do vídeo",
-      "fallback": {
-        "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-        "credit": "Rockstar Games / GTA VI Central",
-        "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-        "alt": "Rua de Vice City ao entardecer, com carros e palmeiras"
-      }
-    }
+    "source": "https://www.youtube.com/watch?v=-Z8u8vIfg9c&t=477s"
   },
   {
     "id": "portao",
@@ -705,20 +434,7 @@ export default [
     "video": "WERDoFlwfN0",
     "seconds": 0,
     "channel": "Canal original no YouTube",
-    "source": "https://www.youtube.com/watch?v=WERDoFlwfN0",
-    "photo": {
-      "url": "https://i.ytimg.com/vi/WERDoFlwfN0/hqdefault.jpg",
-      "credit": "Canal original no YouTube",
-      "page": "https://www.youtube.com/watch?v=WERDoFlwfN0",
-      "alt": "Miniatura do vídeo de Canal original no YouTube",
-      "kind": "Miniatura do vídeo",
-      "fallback": {
-        "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-        "credit": "Rockstar Games / GTA VI Central",
-        "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-        "alt": "Rua de Vice City ao entardecer, com carros e palmeiras"
-      }
-    }
+    "source": "https://www.youtube.com/watch?v=WERDoFlwfN0"
   },
   {
     "id": "leonida",
@@ -731,20 +447,7 @@ export default [
     "video": "QdBZY2fkU-0",
     "seconds": 0,
     "channel": "Rockstar Games",
-    "source": "https://www.rockstargames.com/br/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available",
-    "photo": {
-      "url": "https://i.ytimg.com/vi/QdBZY2fkU-0/hqdefault.jpg",
-      "credit": "Rockstar Games",
-      "page": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
-      "alt": "Miniatura do vídeo de Rockstar Games",
-      "kind": "Miniatura do vídeo",
-      "fallback": {
-        "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-        "credit": "Rockstar Games / GTA VI Central",
-        "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-        "alt": "Rua de Vice City ao entardecer, com carros e palmeiras"
-      }
-    }
+    "source": "https://www.rockstargames.com/br/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available"
   },
   {
     "id": "jason-lucia",
@@ -757,13 +460,6 @@ export default [
     "video": "",
     "seconds": 0,
     "channel": "",
-    "source": "https://www.rockstargames.com/VI/trailer-2",
-    "photo": {
-      "url": "https://gtavicentral.com/uploads/news/article1-19772781-4b19-4a2a-80d0-ffd2cbbbf34e.jpg",
-      "credit": "Rockstar Games / GTA VI Central",
-      "page": "https://gtavicentral.com/news/rockstars-new-gta-vi-graphics-are-almost-too-real",
-      "alt": "Rua de Vice City ao entardecer, com carros e palmeiras",
-      "kind": "Imagem de contexto"
-    }
+    "source": "https://www.rockstargames.com/VI/trailer-2"
   }
 ];

@@ -16,24 +16,12 @@ const surprise = document.querySelector('#surprise');
 const shortcuts = document.querySelector('#game-shortcuts');
 const motion = matchMedia('(prefers-reduced-motion: reduce)');
 
-function caseImage(item, preview = false) {
-  const {url, alt, fallback} = item.photo;
-  return `<img src="${escape(url)}" alt="${preview ? '' : escape(alt)}" width="480" height="300" loading="lazy" decoding="async"${fallback ? ` data-backup="${escape(fallback.url)}" data-backup-alt="${preview ? '' : escape(fallback.alt)}" data-backup-credit="${escape(fallback.credit)}" data-backup-page="${escape(fallback.page)}"` : ''}>`;
+function caseImage(item) {
+  return `<img src="./ilustracoes/${escape(item.id)}.svg" alt="" width="480" height="300" loading="lazy" decoding="async">`;
 }
 
-document.addEventListener('error', event => {
-  const image = event.target;
-  if (!(image instanceof HTMLImageElement) || !image.dataset.backup) return;
-  const {backup, backupAlt, backupCredit, backupPage} = image.dataset;
-  delete image.dataset.backup;
-  image.src = backup;
-  image.alt = backupAlt;
-  const caption = image.closest('figure')?.querySelector('figcaption');
-  if (caption) caption.innerHTML = 'Imagem de contexto · ' + external(backupPage, backupCredit);
-}, true);
-
 function row(item) {
-  const cover = caseImage(item, true);
+  const cover = caseImage(item);
   return `<article><a href="#ficha/${item.id}" class="case-row case-link"><div class="thumb" aria-hidden="true">${cover}</div><div><p class="case-meta">${escape(item.game)} · ${escape(item.type)}</p><h3>${escape(item.title)}</h3><p class="case-place">${escape(item.place)}</p></div><span class="case-open" aria-hidden="true">↗</span></a></article>`;
 }
 
@@ -67,7 +55,7 @@ function showCase() {
   const video = 'https://www.youtube.com/watch?v=' + item.video + '&t=' + item.seconds + 's';
   const videoLink = item.video ? external(video, 'Ver vídeo · ' + item.channel) : '';
   const source = external(item.source, item.type === 'Registro oficial' ? 'Abrir na Rockstar Games' : 'Consultar fonte da ficha');
-  detail.innerHTML = `<p class="label">${escape(item.game)} / ${escape(item.type)}</p><h2 id="case-title">${escape(item.title)}</h2><p class="location">${escape(item.place)}</p>${item.evidence ? `<p class="evidence">${escape(item.evidence)}</p>` : ""}<figure class="case-photo">${caseImage(item)}<figcaption>${escape(item.photo.kind)} · ${external(item.photo.page, item.photo.credit)}</figcaption></figure><h3>O que você encontra</h3><p>${escape(item.body)}</p><h3>Versões e evidências</h3><p>${escape(item.version)}</p><div class="sources">${videoLink}${source}</div>`;
+  detail.innerHTML = `<p class="label">${escape(item.game)} / ${escape(item.type)}</p><h2 id="case-title">${escape(item.title)}</h2><p class="location">${escape(item.place)}</p>${item.evidence ? `<p class="evidence">${escape(item.evidence)}</p>` : ""}<figure class="case-photo">${caseImage(item)}<figcaption>Ilustração editorial · GTA Bugs</figcaption></figure><h3>O que você encontra</h3><p>${escape(item.body)}</p><h3>Versões e evidências</h3><p>${escape(item.version)}</p><div class="sources">${videoLink}${source}</div>`;
   if (!dialog.open) dialog.showModal();
   dialog.scrollTop = 0;
 }

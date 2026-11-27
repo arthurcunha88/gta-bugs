@@ -6,7 +6,7 @@ Arquivo de fãs com **34 fichas** de glitches, easter eggs e registros oficiais 
 
 ## Atualização de 27 de novembro de 2026
 
-A revisão reúne fotos creditadas em todas as fichas e acrescenta nove glitches de GTA VI e o easter egg da ilha “Send Beer”. As legendas identificam miniaturas de vídeos e imagens de contexto.
+A revisão reúne ilustrações editoriais em SVG em todas as fichas e acrescenta nove glitches de GTA VI e o easter egg da ilha “Send Beer”. As ilustrações são servidas pelo próprio site.
 
 Entraram seis fichas de GTA VI. Cinco registram falhas com correção listada no patch de 23 de novembro, como autosave, chamadas de missão e clima travado. A sexta documenta o relato de Jason indisponível depois de *Missing Persons*, com confirmação pendente. [Notas da Rockstar](https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s) · [Relato do Digital Nexus](https://digitalnexus.pl/pt/gta-6/bugs-erros-softlocks-solucoes/)
 
