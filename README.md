@@ -1,8 +1,17 @@
 # GTA Bugs
 
-Arquivo de fãs sobre glitches e easter eggs de Grand Theft Auto, em português brasileiro.
+**[Abrir o GTA Bugs na Vercel](https://gta-bugs.vercel.app/)**
 
-O site estático fica em `dist/`. Sirva esse diretório por HTTP para testar localmente. O catálogo fica em `dist/cases.js`, com a origem de cada ficha e os créditos dos vídeos.
+Arquivo de fãs com **24 fichas** de glitches, easter eggs e registros oficiais de GTA San Andreas, GTA IV, GTA V e GTA VI. Busque por nome ou local, filtre por jogo ou categoria ou sorteie uma ficha.
 
-Grand Theft Auto e seu material promocional pertencem aos respectivos titulares, incluindo Rockstar Games e Take-Two Interactive. Os links de vídeo apontam aos canais originais.
+## Atualização de 27 de novembro de 2026
 
+Entraram seis fichas de GTA VI. Cinco registram falhas com correção listada no patch de 23 de novembro, como autosave, chamadas de missão e clima travado. A sexta documenta o relato de Jason indisponível depois de *Missing Persons*, com confirmação pendente. [Notas da Rockstar](https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s) · [Relato do Digital Nexus](https://digitalnexus.pl/pt/gta-6/bugs-erros-softlocks-solucoes/)
+
+## Catálogo e código
+
+- Cada ficha registra o comportamento observado, a versão ou plataforma quando conhecida e a fonte.
+- Os vídeos abrem nos canais originais, com crédito e indicação do trecho quando disponível.
+- Os arquivos do site estão em `dist/`, com os dados em [`dist/cases.js`](dist/cases.js). A Vercel publica a branch `main`.
+
+Grand Theft Auto e seus materiais pertencem aos respectivos titulares, incluindo Rockstar Games e Take-Two Interactive. O GTA Bugs é um projeto independente de fãs.
