@@ -205,3 +205,5 @@ input,select{background:#fff8f6;border-color:#a78da8}
 }
 @media(prefers-reduced-motion:reduce){.feature:hover{transform:none}}
 
+
+.case-photo{margin:1.25rem 0}.case-photo img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;background:#312345}.case-photo figcaption{font-size:.85rem;color:#624660;padding-top:.45rem}.case-photo a{text-underline-offset:3px}
